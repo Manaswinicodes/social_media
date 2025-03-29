@@ -2,7 +2,7 @@
 - name: Launch Docker Container
   hosts: docker
   vars:
-    docker_image: "manaswinisharma/Django"
+    docker_image: "manaswinisharma/djangoo"
     docker_tag: "latest"
     container_name: "con1"
     host_port: "8000"
